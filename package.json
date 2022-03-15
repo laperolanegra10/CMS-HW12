@@ -1,0 +1,25 @@
+{
+  "name": "cms-hw12",
+  "version": "1.0.0",
+  "description": "SQL Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laperolanegra10/CMS-HW12.git"
+  },
+  "author": "Daniel Juarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laperolanegra10/CMS-HW12/issues"
+  },
+  "homepage": "https://github.com/laperolanegra10/CMS-HW12#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "inquirer": "^8.2.1",
+    "sequelize": "^6.17.0"
+  }
+}
